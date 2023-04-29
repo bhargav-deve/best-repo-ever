@@ -8,7 +8,7 @@ function multiplyNumbers(num1, num2) {
   return num1 * num2;
 }
 
-// Deletion of two numbers
+// bhargav learning lwc
 function deleteNumbers(num1, num2) {
   return num1 - num2;
 }
