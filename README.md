@@ -8,9 +8,7 @@ function multiplyNumbers(num1, num2) {
   return num1 * num2;
 }
 
-
-// working on pull request and merging 
-
+// bhargav learning 
 
 function deleteNumbers(num1, num2) {
   return num1 - num2;
