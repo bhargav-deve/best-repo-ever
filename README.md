@@ -1,2 +1,21 @@
-# best-repo-ever
+// Addition of two numbers
+function addNumbers(num1, num2) {
+  return num1 + num2;
+}
+
+// Deletion of two numbers
+function deleteNumbers(num1, num2) {
+  return num1 - num2;
+}
+
+// Example usage
+const x = 5;
+const y = 3;
+
+const sum = addNumbers(x, y);
+console.log(`The sum of ${x} and ${y} is ${sum}`);
+
+const diff = deleteNumbers(x, y);
+console.log(`The difference of ${x} and ${y} is ${diff}`);
+
  
